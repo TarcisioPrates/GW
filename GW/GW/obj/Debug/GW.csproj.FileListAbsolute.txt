@@ -1,0 +1,7 @@
+C:\Users\Junio\source\repos\GW\GW\obj\Debug\GW.csprojAssemblyReference.cache
+C:\Users\Junio\source\repos\GW\GW\obj\Debug\GW.csproj.CoreCompileInputs.cache
+C:\Users\Junio\source\repos\GW\GW\bin\Debug\GW.exe.config
+C:\Users\Junio\source\repos\GW\GW\bin\Debug\GW.exe
+C:\Users\Junio\source\repos\GW\GW\bin\Debug\GW.pdb
+C:\Users\Junio\source\repos\GW\GW\obj\Debug\GW.exe
+C:\Users\Junio\source\repos\GW\GW\obj\Debug\GW.pdb
